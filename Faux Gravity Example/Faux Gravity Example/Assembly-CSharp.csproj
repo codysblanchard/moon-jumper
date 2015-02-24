@@ -62,6 +62,7 @@
      <Compile Include="Assets\OVR\Scripts\Util\OVRScreenFade.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRUGUI.cs" />
      <Compile Include="Assets\OVR\Scripts\Util\OVRVisionGuide.cs" />
+     <Compile Include="Assets\Scripts\Controller.cs" />
      <Compile Include="Assets\Scripts\FauxGravityAttractor.cs" />
      <Compile Include="Assets\Scripts\FauxGravityBody.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
