@@ -1,0 +1,86 @@
+SCRIPT
+
+I'm glad we could come to an agreement. 
+I think you will find this a most agreeable way to repay your debt to us.
+Especially considering the ... alternatives.
+We'll need as much biomaterial as you can gather.
+We're not sure what we're looking for exactly.
+Our agents know it's somewhere in this system.
+It's very rich with primordial life.
+The thing we're seeking could be something very unexpected.
+So get a bit of everything.
+You've got a limited number of return pods, so make them count.
+Fill them with good stuff.
+Or we'll have to ... activate your ... "chastity belt".
+Make sure to use the processor to maximize the amount of material you can fit into each pod.
+We've saved a lot of money-err, energy by utilizing this ... effecient ... one-way communication system.
+If you run into any problems, send us a note on the return pod.
+Your jumper can run on a number of rare minerals, when processed correctly with the harvester.
+It doesn't travel too far.
+We had to make sure you couldn't ... go ... anywhere.
+Just protecting our investment, of course.
+To get to a neighboring moon, your best bet is to cross the void when the chasm is most narrow.
+When their orbits align.
+If you can't source the minerals, you can try using the extractor.
+Don't overwork your tools.
+These tools are top tier, very expensive.
+We've possibly paid more for them than we've lost because of you.
+If anything breaks ... I'm not sure what we can do for you.
+It's just simple mathematics.
+The cost of our investment.
+The cost of replacing specialized equipment.
+
+
+vehicles
+	jumper gets you to another moon
+		like one of those undersea mini propeller things that you hold onto and it pulls you
+
+contract
+	"chastity belt" is a remote destruction device attached to your person
+	it must be activated by a homing drone? chases you?
+		maybe this is part of completing the game? evade the drone, then use it to escape?
+	no matter what you send, they are unsatisfied?
+
+desolation
+	don't run out of fuel
+	don't burn out your harvester
+	overheating / overuse of tools
+	gather enough fuel and be ready to leave before the next moon comes by or you'll be trapped in a hundred year orbit
+		don't miss yr chance
+		forced to a desperate leap
+
+communication
+	homing pods
+		biomass gets loaded into these 
+		launched back home when full
+		outgoing communications are loaded onto these?
+		each pod you send goes out with a lonely correspondance?
+
+minerals
+	glowy or lens flare tiny pyramids
+	irregular crystals
+	harvester to process
+		can be damaged by weird acid, radioactivity, creeping vines
+		mechanical or animal? healing?
+	radioactive, damaging
+	can be corrupted by creeping slime, plants, munchers, etc
+
+biostuff
+	weird egg - huge spherical egg
+	egg cluster - frog egg style
+	jelly creeper
+	toadstool bark
+	floating algae sheet, like a tattered cloth on the wind
+	"exotics" - vibrating neon rainbow jittering shape
+	tumble-wad
+
+hazards
+	weird acid
+	lashing vines
+	quicksand / bog
+	poison volcano ash stuff
+	geyser
+	pit
+	radioactivity
+	light side of the moon is melting hot?
+	nearing a wicked or poisonous moon that spews acrid stuff across the void or is radioactive
