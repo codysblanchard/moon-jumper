@@ -1,0 +1,24 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 3840x1200 at 0,0
+Platform assembly: C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\GIT\moon-jumper\Faux Gravity Example\Faux Gravity Example\Builds\C_Data\Managed\System.dll (this message is harmless)
